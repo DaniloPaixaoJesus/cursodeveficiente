@@ -1,2 +1,2 @@
-# cursodeveficiente
-material de apoio, exercícios e anotações do curso Dev Eficiente
+# Curso Dev Eficiente
+Material de apoio, exercícios e anotações do curso Dev Eficiente
